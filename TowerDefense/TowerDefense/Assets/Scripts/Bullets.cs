@@ -16,5 +16,16 @@ public class Bullets : MonoBehaviour {
 		
 	}
 
-  
+
 }
+
+
+
+
+
+
+
+
+
+
+
